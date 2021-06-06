@@ -1,3 +1,10 @@
+/**
+*
+* Mailer.java by George Simclair Sam [ simclair.sgs@gmail.com ]
+* Copyrights @ 2021 - BSD clause 3 License
+* 
+* -- Do Not use this file without this notice -- 
+*/
 import java.util.Properties;    
 import javax.mail.*;    
 import javax.mail.internet.*;  
